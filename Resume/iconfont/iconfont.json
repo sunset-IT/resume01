@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1092123",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "1263354",
+      "name": "项目",
+      "font_class": "xiangmu",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "4488857",
+      "name": "期望行业",
+      "font_class": "qiwanghangye",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "7191802",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "8624818",
+      "name": "职业期望",
+      "font_class": "zhiyeqiwang",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "8718255",
+      "name": "房子",
+      "font_class": "fangzi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "13477885",
+      "name": "技能",
+      "font_class": "jineng",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13638711",
+      "name": "学校",
+      "font_class": "xuexiao",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "18454967",
+      "name": "实习",
+      "font_class": "shixi",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    }
+  ]
+}
